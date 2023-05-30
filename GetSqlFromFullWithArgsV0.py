@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 12 09:18:59 2023
 
-@author: YuanYi
-"""
 
 #%%
 #sector of importion
